@@ -22,7 +22,6 @@
   <a href="https://www.instagram.com/oaoj.joao/" target="_blank" padding-bottom="10px"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=midnight-purple&animation=grow_out_in)
  
   
 </div>
