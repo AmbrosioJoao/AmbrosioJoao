@@ -14,18 +14,7 @@
   <img align="center" alt="Rafa-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Rafa-VS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
 </div>
-
-
-##
-
-<div> 
-  <a href="https://www.youtube.com/channel/UC36VFJccZDhxuj1ewJZvROw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/oaoj.joao/" target="_blank" padding-bottom="10px"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/AmbrosioJoao/AmbrosioJoao/blob/output/github-contribution-grid-snake.svg)
- 
- 
-  
+ ##  
 </div>
 
 
