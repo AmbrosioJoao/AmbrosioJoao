@@ -1,4 +1,4 @@
-### João Ambrósio (But you can call me John lol)
+### João Ambrósio (But you can call me John)
 
   <div>
     <a href=https://github.com/AmbrosioJoao" >
