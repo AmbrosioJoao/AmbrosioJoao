@@ -20,6 +20,10 @@
   <img align="center" alt="Joao-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Joao-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Joao-VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+  <img align="center" alt="Joao-LTspice" height="30" width="40" src="https://ltwiki.org/images/5/5e/Logos.gif">
+  <img align="center" alt="Joao-MATLAB" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png">
+
+  
   <img align="center" alt="Joao-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
           
 </div>
