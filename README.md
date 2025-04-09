@@ -20,7 +20,7 @@
   <img align="center" alt="Joao-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Joao-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="Joao-VisualStudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  <img align="center" alt="Joao-LTspice" height="30" width="40" src="[https://upload.wikimedia.org/wikipedia/en/c/c0/Linear_Technology_Corporation_logo.svg](https://cdn.lo4d.com/t/icon/128/ltspice-iv.png)">
+ <img align="center" alt="Joao-LTspice" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/en/c/c0/Linear_Technology_Corporation_logo.svg">
   <img align="center" alt="Joao-MATLAB" height="30" width="40" src="https://logos-world.net/wp-content/uploads/2020/12/MATLAB-Logo.png">
 
   
