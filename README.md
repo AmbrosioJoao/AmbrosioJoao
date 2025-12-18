@@ -1,4 +1,4 @@
-# Olá! Eu sou João Ambrósio 👋
+# Olá! Eu sou João Ambrósio 
 
 Estudante de **Engenharia Elétrica** na UTFPR (Universidade Tecnológica Federal do Paraná), em Curitiba - PR.  
 Tenho muito interesse por eletrônica, telecomunicações, simulações e programação aplicada à engenharia e automação.
@@ -29,7 +29,7 @@ Tenho muito interesse por eletrônica, telecomunicações, simulações e progra
 
 ## Conecte-se comigo
 
-<a href="http://lattes.cnpq.br/SEU_CPF_AQUI">
+<a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1565919A0&tokenCaptchar=0cAFcWeA7up7BRqmnfcBdhcM11uEX6636rIdTID-akrW7m06eWiBKixcQcSOUTbBzzkoqnjWRYn9xRqJwKAE9ERtconBpBmNlwe9MtjV432cQXKuAcFM-hD9Bhg9ZdSU5Bh2pF1CXxlw-RZ--eo0shmvmEMBde8luMrkCa-fjCtVKrRcP7omZdTng_QX-a6rNqNPhhD4Tu4o2GAYdIQxPV1aF_Jfwse3TYL6JPJNJwpOuXuDc5PeC_7NaTQzVSWkqTYtjE43xCSi_dQV2t60by-ga_hozZgvOjjoRAioHUBs8HArK1-0za-jivruHx1l-xOyrguHDbE9RBCKLjMWR5905uZKH7ObPh6_NPyy8Inswq0wqxjqMobWYtoiDh7rKXLsWTrrGSD3ER4Ag4WgWFooKWPhqDNvlutCWrwyHxKZaA9gKoGLskm-_qB8yam45TK2adMMRunYz5guCiHjLsMz99ywMZUxxBbYlsHBa8pG0Q8tUE4lwAa-SYAJT1UpkcFagpwasIrLyLV7cCMZOVJdEP4sneZiNPR5jlpTl7wEbPBBajl1IYOqHnsaqGI5j0j60ggc_IR0d6K314ZHvZpdr11AOj3zBJq8FD_pWN_F7SojDhgDJGRZ5Y7FHRSF_PuWu0i4apJ1YByMCUZeSW37O5DL4mTH1opImvgo-ByQaqg6O7ohTO75VYy3km-lJjuoL_4M3V14lrBMVhqlqC4VuhtPEqX5DXBGCzVFH9tT9uVOAyQ0yjMn-a5TSv-Y-1kijJT6vbs2wYFOigNwvNP-VsScElHks8MZU543Qtfm_wZjylFWMRmCcdffbtnaVIqsPQipokYHV0mFCNVBqjrCBKXHAh8qce_F2u6gnQ1TMofISu1d6fhjmg309XOIJFJqCfjJK1YgRb">
     <img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-006400?style=for-the-badge&logoColor=white&logo=graduation-cap"/>
   </a>
   
