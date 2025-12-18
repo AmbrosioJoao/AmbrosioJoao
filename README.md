@@ -9,7 +9,7 @@ Tenho muito interesse por eletrônica, telecomunicações, simulações e progra
   <img height="180em" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5reWY4cWUxdGJmNXU2bTZ6NjNrMjQxNDFhdHA1anNrMHBucnp0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjUM6C6owTsfym6k/giphy.gif"/>
 </div>
 
-## 🛠 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <div style="display: inline_block">
   <img align="center" alt="Joao-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
@@ -27,12 +27,16 @@ Tenho muito interesse por eletrônica, telecomunicações, simulações e progra
 
 <br>
 
-## 📫 Conecte-se comigo
+## Conecte-se comigo
 
-<div align="center">
-  <a href="https://github.com/AmbrosioJoao">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="http://lattes.cnpq.br/SEU_CPF_AQUI">
+    <img src="https://img.shields.io/badge/Lattes-006400?style=for-the-badge&logo=googlescholar&logoColor=white&label=Curr%C3%ADculo%20Lattes"/>
   </a>
+  
+  <a href="mailto:joaoambrosio@alunos.utfpr.edu.br">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
   <!-- Adicione seu LinkedIn aqui se tiver -->
   <a href="https://www.linkedin.com/in/jo%C3%A3o-mateus-de-almeida-ambr%C3%B3sio-3a1188304/"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
