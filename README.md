@@ -30,7 +30,7 @@ Tenho muito interesse por eletrônica, telecomunicações, simulações e progra
 ## Conecte-se comigo
 
 <a href="http://lattes.cnpq.br/SEU_CPF_AQUI">
-    <img src="https://img.shields.io/badge/Lattes-006400?style=for-the-badge&logo=googlescholar&logoColor=white&label=Curr%C3%ADculo%20Lattes"/>
+    <img src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-006400?style=for-the-badge&logoColor=white&logo=graduation-cap"/>
   </a>
   
   <a href="mailto:joaoambrosio@alunos.utfpr.edu.br">
