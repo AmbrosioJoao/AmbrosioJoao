@@ -2,7 +2,7 @@
 
 **Engenharia Elétrica @ UTFPR · Curitiba, PR**
 
-Estudante de Engenharia Elétrica na Universidade Tecnológica Federal do Paraná, com interesse em eletrônica, telecomunicações, sinais e sistemas, energia e programação aplicada à engenharia. Gosto de unir teoria e prática em projetos de simulação, instrumentação e sistemas embarcados.
+Estudante de Engenharia Elétrica na Universidade Tecnológica Federal do Paraná, com interesse em eletrônica, telecomunicações, sinais e sistemas, energia e programação aplicada à engenharia. Gosto de unir teoria e prática em projetos de simulação e sistemas embarcados.
 
 ## Áreas de interesse
 
@@ -61,7 +61,3 @@ Estudante de Engenharia Elétrica na Universidade Tecnológica Federal do Paran�
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
-
-## Atualmente
-
-Estudando sinais e sistemas, comunicações digitais e projetos de eletrônica embarcada.
