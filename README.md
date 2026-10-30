@@ -2,62 +2,51 @@
 
 **Engenharia Elétrica @ UTFPR · Curitiba, PR**
 
-Estudante de Engenharia Elétrica na Universidade Tecnológica Federal do Paraná, com interesse em eletrônica, telecomunicações, sinais e sistemas, energia e programação aplicada à engenharia. Gosto de unir teoria e prática em projetos de simulação e sistemas embarcados.
+Estudante de Engenharia Elétrica na UTFPR com interesse em eletrônica, telecomunicações, sinais e sistemas, sistemas embarcados, energy harvesting e programação aplicada.
 
 ## Áreas de interesse
 
-- Eletrônica analógica
-- Telecomunicações
-- Sistemas embarcados
-- Energy harvesting
-- Sinais e sistemas
-- Automação
+- Eletrônica analógica e circuitos
+- Telecomunicações e propagação
+- Sinais e Sistemas
+- Sistemas embarcados e microprocessados
+- Energy harvesting para IoT
+- Automação e controle
 
 ## Projetos em destaque
 
-| Projeto | Stack | Sobre |
-|---|---|---|
-| [buck-energy-harvesting](https://github.com/AmbrosioJoao/buck-energy-harvesting) | Python | Estudo de energy harvesting autônomo para IoT com fonte solar. |
-| [ic-lr-fhss](https://github.com/AmbrosioJoao/ic-lr-fhss) | Jupyter Notebook | Análise de FHSS e espalhamento espectral em comunicações digitais. |
-| [go-can-study-utfpr](https://github.com/AmbrosioJoao/go-can-study-utfpr) | Go | Estudos de comunicação CAN com implementação em Go. |
-| [SinaisSistemas_UTFPR](https://github.com/AmbrosioJoao/SinaisSistemas_UTFPR) | MATLAB | Exercícios e análises da disciplina de Sinais e Sistemas (Lathi). |
-| [Algoritmo-Genetico](https://github.com/AmbrosioJoao/Algoritmo-Genetico) | C++ | Implementação de algoritmo genético para a disciplina de Computação 2. |
-| [plano-formacao-eng-eletrica](https://github.com/AmbrosioJoao/plano-formacao-eng-eletrica) | CSS | Planejador da grade curricular de Engenharia Elétrica. |
+| Projeto | Stack | Descrição |
+| --- | --- | --- |
+| [buck-energy-harvesting](https://github.com/AmbrosioJoao/buck-energy-harvesting) | Python | Energy harvesting autônomo para IoT (solar). |
+| [ic-lr-fhss](https://github.com/AmbrosioJoao/ic-lr-fhss) | Jupyter Notebook | FHSS / espalhamento espectral. |
+| [go-can-study-utfpr](https://github.com/AmbrosioJoao/go-can-study-utfpr) | Go | Estudo de comunicação CAN. |
+| [plano-formacao-eng-eletrica](https://github.com/AmbrosioJoao/plano-formacao-eng-eletrica) | CSS | Planejador da grade de Engenharia Elétrica. |
+| [SinaisSistemas_UTFPR](https://github.com/AmbrosioJoao/SinaisSistemas_UTFPR) | MATLAB | Sinais e Sistemas (Lathi). |
+| [Algoritmo-Genetico](https://github.com/AmbrosioJoao/Algoritmo-Genetico) | C++ | Algoritmos Genéticos - Computação 2. |
 
 ## Stack
 
-<div>
-  <img alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
-  <img alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
-  <img alt="Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg">
-  <img alt="MATLAB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg">
-  <img alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
-  <img alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
-  <img alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
-  <img alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg">
-  <img alt="VS Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img alt="LTspice" height="28" src="https://img.shields.io/badge/LTspice-8B0000?style=flat-square">
-</div>
+![C](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg)
+![C++](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg)
+![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg)
+![Go](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg)
+![MATLAB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg)
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
+![Linux](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg)
+![VSCode](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg)
 
-## GitHub
+## GitHub Stats
 
 <div align="center">
-  <img height="170em" alt="Estatísticas do GitHub de AmbrosioJoao" src="https://github-readme-stats.vercel.app/api?username=AmbrosioJoao&show_icons=true&theme=dark">
-  <img height="170em" alt="Linguagens mais usadas por AmbrosioJoao" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbrosioJoao&layout=compact&langs_count=7&theme=dark">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AmbrosioJoao&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmbrosioJoao&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 ## Contato
 
-<div>
-  <a href="https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1565919A0">
-    <img alt="Currículo Lattes" src="https://img.shields.io/badge/Curr%C3%ADculo%20Lattes-006400?style=for-the-badge&logoColor=white&logo=graduation-cap">
-  </a>
-  <a href="mailto:joaoambrosio@alunos.utfpr.edu.br">
-    <img alt="E-mail" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-mateus-de-almeida-ambr%C3%B3sio-3a1188304/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+[![Lattes](https://img.shields.io/badge/Lattes-CNPq-blue)](https://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K1565919A0)
+[![Email](https://img.shields.io/badge/Email-joaoambrosio%40alunos.utfpr.edu.br-red)](mailto:joaoambrosio@alunos.utfpr.edu.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João%20Mateus%20Ambrósio-blue)](https://www.linkedin.com/in/jo%C3%A3o-mateus-de-almeida-ambr%C3%B3sio-3a1188304/)
